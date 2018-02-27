@@ -1,0 +1,4 @@
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Security\bin\Debug\MyMVCProject.Security.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Security\bin\Debug\MyMVCProject.Security.pdb
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Security\obj\Debug\MyMVCProject.Security.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Security\obj\Debug\MyMVCProject.Security.pdb

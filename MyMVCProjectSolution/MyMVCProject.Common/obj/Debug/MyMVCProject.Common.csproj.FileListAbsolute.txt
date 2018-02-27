@@ -1,0 +1,5 @@
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Common\bin\Debug\MyMVCProject.Common.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Common\bin\Debug\MyMVCProject.Common.pdb
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Common\obj\Debug\MyMVCProject.Common.csprojResolveAssemblyReference.cache
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Common\obj\Debug\MyMVCProject.Common.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Common\obj\Debug\MyMVCProject.Common.pdb

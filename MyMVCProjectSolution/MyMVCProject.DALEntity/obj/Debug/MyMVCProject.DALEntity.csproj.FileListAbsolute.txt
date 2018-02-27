@@ -1,0 +1,4 @@
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.DALEntity\bin\Debug\MyMVCProject.DALEntity.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.DALEntity\bin\Debug\MyMVCProject.DALEntity.pdb
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.DALEntity\obj\Debug\MyMVCProject.DALEntity.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.DALEntity\obj\Debug\MyMVCProject.DALEntity.pdb

@@ -1,0 +1,9 @@
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\bin\Debug\MyMVCProject.Business.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\bin\Debug\MyMVCProject.Business.pdb
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\bin\Debug\MyMVCProject.BusinessObject.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\bin\Debug\MyMVCProject.DAL.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\bin\Debug\MyMVCProject.BusinessObject.pdb
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\bin\Debug\MyMVCProject.DAL.pdb
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\obj\Debug\MyMVCProject.Business.csprojResolveAssemblyReference.cache
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\obj\Debug\MyMVCProject.Business.dll
+E:\MVC_PROJ_SKELTON_FACADE-SC\MyMVCProjectSolution\MyMVCProject.Business\obj\Debug\MyMVCProject.Business.pdb
